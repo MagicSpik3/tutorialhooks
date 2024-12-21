@@ -1,5 +1,8 @@
 Config
+knitr
 LazyData
+rmarkdown
 RoxygenNote
 testthat
 tutorialhooks
+VignetteBuilder
