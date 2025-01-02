@@ -15,5 +15,4 @@
 #' @export
 hello <- function() {
   return("Hello, world!")
-  # misspelled wordz
 }

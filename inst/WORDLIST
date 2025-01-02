@@ -1,6 +1,5 @@
 Config
 Ctrl
-finction
 https
 knitr
 LazyData
@@ -11,4 +10,3 @@ RStudio
 testthat
 tutorialhooks
 VignetteBuilder
-wordz
