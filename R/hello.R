@@ -15,5 +15,5 @@
 #' @export
 hello <- function() {
   return("Hello, world!")
-  # waerawerd
+  # waerawerds
 }
