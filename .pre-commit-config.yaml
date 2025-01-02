@@ -13,7 +13,6 @@ repos:
     -   id: spell-check
         exclude: >
           (?x)^(
-          .*\.[rR]|
           .*\.feather|
           .*\.jpeg|
           .*\.pdf|
