@@ -5,6 +5,7 @@ knitr
 LazyData
 pkgs
 rmarkdown
+roxygen
 RoxygenNote
 RStudio
 testthat
